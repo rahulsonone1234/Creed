@@ -1,12 +1,6 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var firebaseConfig = {
-    apiKey: "AIzaSyDSr_mmRJ2NEgVTFCmvmrxlZ78hulDgGks",
-    authDomain: "creed-44709.firebaseapp.com",
-    databaseURL: "https://creed-44709.firebaseio.com",
-    projectId: "creed-44709",
-    storageBucket: "creed-44709.appspot.com",
-    messagingSenderId: "33393846251",
-    appId: "1:33393846251:web:487e78922f104ad1"
+   
   };
 firebase.initializeApp(firebaseConfig);
 
